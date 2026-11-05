@@ -2,6 +2,13 @@ name: Profile Analytics
 
 on:
   workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/scripts/generate_graphs.py"
+      - ".github/workflows/profile-analytics.yml"
+      - "assets/**"
   schedule:
     - cron: "17 0 * * *"
 
@@ -46,7 +53,7 @@ jobs:
               print(f"Validated {path}: {path.stat().st_size} bytes")
           PY
 
-      - name: Commit updated charts
+      - name: Commit changed charts
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
