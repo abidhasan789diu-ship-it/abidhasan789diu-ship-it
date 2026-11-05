@@ -1,18 +1,13 @@
 <div align="center">
 
-# Abid Hasan
-
-### Software Developer · CSE Student
+<img src="./assets/profile-banner.svg" width="100%" alt="Abid Hasan — Software Developer and CSE Student" />
 
 <p>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=00F5FF&center=true&vCenter=true&width=720&lines=Software+Development;Web+%26+Backend+Technologies;Data+Structures+%26+Algorithms;IoT+%26+Embedded+Systems" alt="Typing introduction" />
 </p>
 
 <p>
-  <a href="https://github.com/abidhasan789diu-ship-it">
-    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00F5FF" alt="GitHub" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=abidhasan789diu-ship-it&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS" alt="Profile views" />
+  <a href="https://github.com/abidhasan789diu-ship-it">GitHub Profile</a>
 </p>
 
 </div>
@@ -25,36 +20,40 @@ I'm a Computer Science & Engineering student at **Daffodil International Univers
 
 - 🎓 B.Sc. in Computer Science & Engineering — Daffodil International University
 - 💻 Interested in software, web, and backend development
-- 🧠 Building a stronger foundation in Data Structures and Algorithms
+- 🧠 Strengthening my foundation in Data Structures and Algorithms
 - 🔌 Exploring IoT and embedded systems
 - 🏆 **Best Performer — IoT Lab**
 
 ## Technology Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,nodejs,firebase,git,github,arduino,vscode" alt="C, C++, Python, HTML, CSS, JavaScript, Node.js, Firebase, Git, GitHub, Arduino and VS Code" />
-</p>
+| Category | Technologies |
+|---|---|
+| Programming | C, C++, Python |
+| Web | HTML, CSS, JavaScript |
+| Backend & Services | Node.js, Firebase |
+| Hardware & IoT | Arduino |
+| Developer Tools | Git, GitHub, VS Code |
 
-## Projects
+## Project Portfolio
 
-Projects will be showcased here as their repositories become publicly available. During this audit, the connected GitHub account exposed only this profile repository, so no unverified project names or repository links are listed.
+The connected GitHub account currently exposes this profile repository as its only public owned repository. I have not added unverified projects or invented links. Project cards can be added as the individual project repositories become public.
 
 ## GitHub Analytics
 
 <p align="center">
-  <img src="./assets/github-stats.svg" width="100%" alt="GitHub statistics: public repositories, followers, stars and yearly contributions" />
+  <img src="./assets/github-stats.svg" width="100%" alt="GitHub statistics" />
 </p>
 
 ## Programming Language Distribution
 
 <p align="center">
-  <img src="./assets/languages.svg" width="100%" alt="Language distribution aggregated from public repositories" />
+  <img src="./assets/languages.svg" width="100%" alt="Programming language distribution" />
 </p>
 
 ## Contribution Activity
 
 <p align="center">
-  <img src="./assets/activity.svg" width="100%" alt="Daily contribution heatmap sourced from GitHub" />
+  <img src="./assets/activity.svg" width="100%" alt="Contribution activity calendar" />
 </p>
 
 ## Achievements
@@ -73,22 +72,15 @@ Projects will be showcased here as their repositories become publicly available.
 | Area | Focus |
 |---|---|
 | Programming | C, C++, Python |
-| Web | HTML, CSS, JavaScript |
-| Backend & Services | Node.js, Firebase |
+| Web Development | HTML, CSS, JavaScript |
+| Backend | Node.js, Firebase |
 | Computer Science | Data Structures & Algorithms |
 | Hardware | Arduino, IoT |
-| Developer Tools | Git, GitHub, VS Code |
+| Tools | Git, GitHub, VS Code |
 
 ## Connect
 
-<p>
-  <a href="https://github.com/abidhasan789diu-ship-it">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
-  </a>
-  <a href="mailto:abidhasan789diu@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+- GitHub: [@abidhasan789diu-ship-it](https://github.com/abidhasan789diu-ship-it)
 
 ---
 
