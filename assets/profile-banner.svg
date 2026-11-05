@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+<title id="title">Abid Hasan — Software Developer and CSE Student</title>
+<desc id="desc">Premium dark neon developer portfolio banner.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0D1117"/><stop offset=".55" stop-color="#111827"/><stop offset="1" stop-color="#161B22"/></linearGradient>
+  <linearGradient id="neon" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#00F5FF"/><stop offset=".52" stop-color="#8B5CF6"/><stop offset="1" stop-color="#FF00FF"/></linearGradient>
+  <filter id="glow"><feGaussianBlur stdDeviation="7" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="1200" height="320" rx="24" fill="url(#bg)"/>
+<circle cx="1000" cy="80" r="175" fill="#8B5CF6" opacity=".08"/>
+<circle cx="1120" cy="280" r="180" fill="#00F5FF" opacity=".06"/>
+<path d="M0 270 C260 205 360 350 650 260 S980 180 1200 235" fill="none" stroke="url(#neon)" stroke-width="2" opacity=".6"/>
+<path d="M0 285 C280 220 390 360 660 275 S1000 190 1200 250" fill="none" stroke="url(#neon)" stroke-width="1" opacity=".28"/>
+<rect x="56" y="54" width="7" height="174" rx="3.5" fill="url(#neon)" filter="url(#glow)"/>
+<text x="92" y="133" fill="#E6EDF3" font-family="Segoe UI,Arial,sans-serif" font-size="64" font-weight="700" letter-spacing="-2">ABID HASAN</text>
+<text x="96" y="180" fill="#00F5FF" font-family="Segoe UI,Arial,sans-serif" font-size="24" letter-spacing="2">SOFTWARE DEVELOPER  /  CSE STUDENT</text>
+<text x="96" y="225" fill="#AAB7C4" font-family="Segoe UI,Arial,sans-serif" font-size="18">Building practical software · Exploring backend · IoT &amp; embedded systems</text>
+<g transform="translate(920 120)" opacity=".9" fill="none" stroke="url(#neon)" stroke-width="3">
+<path d="M0 0 L-44 38 L0 76 M80 0 L124 38 L80 76 M56 -10 L24 86"/>
+<circle cx="40" cy="38" r="100" stroke-opacity=".15"/>
+</g>
+<text x="96" y="285" fill="#64748B" font-family="Consolas,monospace" font-size="13">const mindset = "learn • build • improve";</text>
+</svg>
