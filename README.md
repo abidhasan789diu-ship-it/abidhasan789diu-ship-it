@@ -93,13 +93,6 @@ I'm a Computer Science & Engineering student at **Daffodil International Univers
 </p>
 
 ---
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/abidhasan789diu-ship-it/abidhasan789diu-ship-it/output/github-contribution-grid-snake-dark.svg" width="100%" />
-</p>
-
 ---
 
 ## 🏆 GitHub Achievements
