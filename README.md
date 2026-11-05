@@ -65,30 +65,33 @@ I'm a Computer Science & Engineering student at **Daffodil International Univers
 | 💊 Pharmacy Management | Medicine and inventory management | C, Data Structures |
 | 🗺️ Land Information Platform | Digital land information and property management | Web Technologies |
 
+
 ---
 
 ## 📊 GitHub Analytics
 
 <p align="center">
- 
-
----
-
-## 🔥 Contribution Streak
-
-<p align="center">
-
----
-
-## 📈 Contribution Activity Graph
-
-<p align="center">
-  <a href="https://github.com/abidhasan789diu-ship-it">
-   
-  </a>
+  <img src="./assets/github-stats.svg" width="100%" alt="GitHub Statistics"/>
 </p>
 
 ---
+
+## 💻 Programming Language Distribution
+
+<p align="center">
+  <img src="./assets/languages.svg" width="100%" alt="Programming Languages"/>
+</p>
+
+---
+
+## 📈 Neon Contribution Activity
+
+<p align="center">
+  <img src="./assets/activity.svg" width="100%" alt="Contribution Activity"/>
+</p>
+
+---
+
 ---
 
 ## 📊 GitHub Overview
