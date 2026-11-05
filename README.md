@@ -70,17 +70,13 @@ I'm a Computer Science & Engineering student at **Daffodil International Univers
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=abidhasan789diu-ship-it&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abidhasan789diu-ship-it&layout=donut&theme=github_dark&hide_border=true&langs_count=8" />
-</p>
+ 
 
 ---
 
 ## 🔥 Contribution Streak
 
 <p align="center">
-  <img width="80%" src="https://streak-stats.demolab.com?user=abidhasan789diu-ship-it&theme=github-dark-blue&hide_border=true&border_radius=10" />
-</p>
 
 ---
 
@@ -88,17 +84,34 @@ I'm a Computer Science & Engineering student at **Daffodil International Univers
 
 <p align="center">
   <a href="https://github.com/abidhasan789diu-ship-it">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=abidhasan789diu-ship-it&bg_color=0D1117&color=00F5FF&line=FF00FF&point=FFFFFF&area=true&area_color=7B2CFF&hide_border=true" width="100%" />
+   
   </a>
 </p>
 
 ---
 ---
 
+## 📊 GitHub Overview
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/abidhasan789diu-ship-it?style=for-the-badge&logo=github&color=00F5FF" />
+  <img src="https://img.shields.io/github/stars/abidhasan789diu-ship-it?style=for-the-badge&logo=github&color=7B2CFF" />
+</p>
+
+## 🏆 Achievements
+
+- 🥇 Best Performer — IoT Lab
+- 🎓 Computer Science & Engineering Student
+- 🚀 Building Real-World Projects
+
+---
+
+---
+
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abidhasan789diu-ship-it&theme=matrix&no-frame=true&no-bg=true&margin-w=8&column=4" width="100%" />
+ 
 </p>
 
 ---
