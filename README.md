@@ -6,9 +6,6 @@
   <img src="./assets/typing-intro.svg" width="100%" alt="Animated introduction: software development, web and backend, algorithms, IoT and embedded systems" />
 </p>
 
-<p>
-  <a href="https://github.com/abidhasan789diu-ship-it">GitHub Profile</a>
-</p>
 
 </div>
 
