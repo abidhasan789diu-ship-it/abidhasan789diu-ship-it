@@ -17,7 +17,7 @@ permissions:
 
 concurrency:
   group: profile-analytics
-  cancel-in-progress: true
+  cancel-in-progress: false
 
 jobs:
   generate:
@@ -26,6 +26,8 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -53,14 +55,15 @@ jobs:
               print(f"Validated {path}: {path.stat().st_size} bytes")
           PY
 
-      - name: Commit changed charts
+      - name: Commit and push updated charts safely
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add assets/github-stats.svg assets/languages.svg assets/activity.svg
           if git diff --cached --quiet; then
             echo "Analytics are already current."
-          else
-            git commit -m "chore: update GitHub profile analytics"
-            git push
+            exit 0
           fi
+          git commit -m "chore: update GitHub profile analytics"
+          git pull --rebase origin "${GITHUB_REF_NAME}"
+          git push origin "HEAD:${GITHUB_REF_NAME}"
