@@ -1,9 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="744" height="180" viewBox="0 0 744 180" role="img">
-<title>Programming language distribution — awaiting refresh</title>
-<desc>No public language byte totals are currently confirmed in this connected repository view. The workflow will populate this chart from GitHub language endpoints.</desc>
-<rect width="744" height="180" rx="16" fill="#0D1117"/>
-<text x="24" y="35" fill="#00F5FF" font-family="Arial,sans-serif" font-size="17" font-weight="700">LANGUAGE DISTRIBUTION</text>
-<rect x="24" y="58" width="696" height="90" rx="12" fill="#161B22" stroke="#8B5CF6" stroke-opacity=".5"/>
-<text x="44" y="96" fill="#E6EDF3" font-family="Arial,sans-serif" font-size="15">Waiting for verified language-byte data.</text>
-<text x="44" y="121" fill="#9AA7B5" font-family="Arial,sans-serif" font-size="12">No percentages are fabricated. This panel updates after a successful analytics run.</text>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="744" height="208" viewBox="0 0 744 208" role="img"><title>Programming language distribution</title><desc>Language byte counts aggregated across public repositories.</desc><rect width="744" height="208" rx="16" fill="#0D1117"/><text x="24" y="35" fill="#00F5FF" font-size="17" font-weight="700">LANGUAGE DISTRIBUTION</text><text x="24" y="80" fill="#E6EDF3" font-size="13">HTML</text><rect x="166" y="66" width="470" height="11" rx="5.5" fill="#263244"/><rect x="166" y="66" width="435.47" height="11" rx="5.5" fill="#00F5FF"/><text x="710" y="80" text-anchor="end" fill="#00F5FF" font-size="12">92.7%</text><text x="24" y="123" fill="#E6EDF3" font-size="13">C</text><rect x="166" y="109" width="470" height="11" rx="5.5" fill="#263244"/><rect x="166" y="109" width="34.53" height="11" rx="5.5" fill="#8B5CF6"/><text x="710" y="123" text-anchor="end" fill="#8B5CF6" font-size="12">7.3%</text></svg>
