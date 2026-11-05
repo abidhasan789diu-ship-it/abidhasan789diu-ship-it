@@ -34,9 +34,22 @@ I'm a Computer Science & Engineering student at **Daffodil International Univers
 | Hardware & IoT | Arduino |
 | Developer Tools | Git, GitHub, VS Code |
 
-## Project Portfolio
+## Featured Projects
 
-The connected GitHub account currently exposes this profile repository as its only public owned repository. I have not added unverified projects or invented links. Project cards can be added as the individual project repositories become public.
+<table>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/abidhasan789diu-ship-it/code789">Code789</a></h3>
+      <p>A browser-based code storage/snippet project. The repository description mentions Firebase-backed storage and a unique ID/password system.</p>
+      <p><sub>HTML · CSS · JavaScript · Firebase (as described by the repository)</sub></p>
+    </td>
+    <td width="50%">
+      <h3><a href="https://github.com/abidhasan789diu-ship-it/Bus-Reservation-System-Code">Bus Reservation System</a></h3>
+      <p>A C project with admin and user panels, bus and seat management, booking, and ticket cancellation rules.</p>
+      <p><sub>C · Structures · Arrays · Time</sub></p>
+    </td>
+  </tr>
+</table>
 
 ## GitHub Analytics
 
