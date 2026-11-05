@@ -1,177 +1,99 @@
-# 👋 Hey, I'm Abid Hasan
+<div align="center">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:101B35,100:0066FF&height=220&section=header&text=ABID%20HASAN&fontSize=50&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Developer%20%7C%20CSE%20Student&descAlignY=58&descSize=18" width="100%" />
+# Abid Hasan
+
+### Software Developer · CSE Student
+
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=00F5FF&center=true&vCenter=true&width=720&lines=Software+Development;Web+%26+Backend+Technologies;Data+Structures+%26+Algorithms;IoT+%26+Embedded+Systems" alt="Typing introduction" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+Profile!;Software+Development+Enthusiast;Building+Real+World+Projects;Learning+Today%2C+Building+Tomorrow." />
-</p>
-
-<p align="center">
+<p>
   <a href="https://github.com/abidhasan789diu-ship-it">
-    <img src="https://img.shields.io/badge/GitHub-Abid%20Hasan-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00F5FF" alt="GitHub" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=abidhasan789diu-ship-it&label=PROFILE+VIEWS&color=00F5FF&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=abidhasan789diu-ship-it&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
 
----
-
-## 👨‍💻 About Me
-
-I'm a Computer Science & Engineering student at **Daffodil International University**, passionate about software development, problem-solving, and building practical technology solutions.
-
-- 🎓 CSE Student at Daffodil International University.
-- 💻 Interested in Software Development.
-- 🌐 Exploring Web Development and Backend Technologies.
-- 🔌 Interested in IoT and Embedded Systems.
-- 🏆 Best Performer — IoT Lab.
-- 🚀 Building projects to solve real-world problems.
-- 📚 Always learning and improving my technical skills.
+</div>
 
 ---
 
-## 🛠️ Technologies & Tools
+## About Me
 
-### Programming Languages
+I'm a Computer Science & Engineering student at **Daffodil International University** interested in building practical software and technology solutions. I enjoy learning by creating projects, exploring how systems work, and improving my problem-solving skills.
+
+- 🎓 B.Sc. in Computer Science & Engineering — Daffodil International University
+- 💻 Interested in software, web, and backend development
+- 🧠 Building a stronger foundation in Data Structures and Algorithms
+- 🔌 Exploring IoT and embedded systems
+- 🏆 **Best Performer — IoT Lab**
+
+## Technology Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,js" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,nodejs,firebase,git,github,arduino,vscode" alt="C, C++, Python, HTML, CSS, JavaScript, Node.js, Firebase, Git, GitHub, Arduino and VS Code" />
 </p>
 
-### Web Development
+## Projects
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,nodejs,firebase" />
-</p>
+Projects will be showcased here as their repositories become publicly available. During this audit, the connected GitHub account exposed only this profile repository, so no unverified project names or repository links are listed.
 
-### Tools & Platforms
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,arduino" />
-</p>
-
----
-
-## 🚀 Featured Projects
-
-| Project | Description | Technologies |
-|---|---|---|
-| 🗄️ CodeVault | Temporary code snippet sharing platform | HTML, CSS, JavaScript, Firebase |
-| 🏥 Lifeline | Hospital and healthcare management portal | Web Technologies |
-| 🚌 Bus Reservation System | Bus booking and seat management system | C |
-| 🌱 Smart Watering System | IoT-based automatic plant watering | Arduino, IoT |
-| 🛡️ Smart Fencing System | Smart fencing for agricultural protection | IoT, Embedded Systems |
-| 💊 Pharmacy Management | Medicine and inventory management | C, Data Structures |
-| 🗺️ Land Information Platform | Digital land information and property management | Web Technologies |
-
-
----
-
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <p align="center">
-  <img src="./assets/github-stats.svg" width="100%" alt="GitHub Statistics"/>
+  <img src="./assets/github-stats.svg" width="100%" alt="GitHub statistics: public repositories, followers, stars and yearly contributions" />
 </p>
 
----
-
-## 💻 Programming Language Distribution
+## Programming Language Distribution
 
 <p align="center">
-  <img src="./assets/languages.svg" width="100%" alt="Programming Languages"/>
+  <img src="./assets/languages.svg" width="100%" alt="Language distribution aggregated from public repositories" />
 </p>
 
----
-
-## 📈 Neon Contribution Activity
+## Contribution Activity
 
 <p align="center">
-  <img src="./assets/activity.svg" width="100%" alt="Contribution Activity"/>
+  <img src="./assets/activity.svg" width="100%" alt="Daily contribution heatmap sourced from GitHub" />
 </p>
 
----
+## Achievements
 
----
+- 🏆 Best Performer — IoT Lab
 
-## 📊 GitHub Overview
+## Current Focus
 
-<p align="center">
-  <img src="https://img.shields.io/github/followers/abidhasan789diu-ship-it?style=for-the-badge&logo=github&color=00F5FF" />
-  <img src="https://img.shields.io/github/stars/abidhasan789diu-ship-it?style=for-the-badge&logo=github&color=7B2CFF" />
-</p>
+- Strengthening Data Structures and Algorithms
+- Improving C, C++, and Python programming
+- Building web and backend development skills
+- Exploring practical IoT and embedded projects
 
-## 🏆 Achievements
+## Learning Journey
 
-- 🥇 Best Performer — IoT Lab
-- 🎓 Computer Science & Engineering Student
-- 🚀 Building Real-World Projects
-
----
-
----
-
-## 🏆 GitHub Achievements
-
-<p align="center">
- 
-</p>
-
----
-
-## 🎯 Current Focus
-
-- 📚 Strengthening Data Structures & Algorithms.
-- 💻 Improving C and C++ programming skills.
-- 🌐 Learning Full Stack Web Development.
-- ⚙️ Exploring Backend Development.
-- 🔌 Developing practical IoT applications.
-- 🚀 Building scalable software projects.
-
----
-
-## 🧠 Learning Journey
-
-| Area | Current Focus |
+| Area | Focus |
 |---|---|
 | Programming | C, C++, Python |
-| Web Development | HTML, CSS, JavaScript |
-| Backend | Node.js, Firebase |
+| Web | HTML, CSS, JavaScript |
+| Backend & Services | Node.js, Firebase |
 | Computer Science | Data Structures & Algorithms |
 | Hardware | Arduino, IoT |
-| Tools | Git, GitHub, VS Code |
+| Developer Tools | Git, GitHub, VS Code |
 
----
+## Connect
 
-## 🏅 Achievements & Recognition
-
-- 🥇 Best Performer — IoT Lab.
-- 🎓 Computer Science & Engineering student.
-- 💡 Hands-on experience with academic and personal projects.
-- 🚀 Passionate about learning and innovation.
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
+<p>
   <a href="https://github.com/abidhasan789diu-ship-it">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
   </a>
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:abidhasan789diu@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
 ---
 
-<p align="center">
-  <i>"Great things are built one line of code at a time."</i>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00FF,50:101B35,100:00F5FF&height=120&section=footer" width="100%" />
-</p>
+*Learning continuously. Building thoughtfully.*
+
+</div>
