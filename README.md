@@ -3,7 +3,7 @@
 <img src="./assets/profile-banner.svg" width="100%" alt="Abid Hasan — Software Developer and CSE Student" />
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=00F5FF&center=true&vCenter=true&width=720&lines=Software+Development;Web+%26+Backend+Technologies;Data+Structures+%26+Algorithms;IoT+%26+Embedded+Systems" alt="Typing introduction" />
+  <img src="./assets/typing-intro.svg" width="100%" alt="Animated introduction: software development, web and backend, algorithms, IoT and embedded systems" />
 </p>
 
 <p>
