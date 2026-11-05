@@ -45,7 +45,7 @@ jobs:
           python - <<'PY'
           import xml.etree.ElementTree as ET
           from pathlib import Path
-          for name in ("github-stats.svg", "languages.svg", "activity.svg"):
+          for name in ("profile-banner.svg", "typing-intro.svg", "github-stats.svg", "languages.svg", "activity.svg"):
               path = Path("assets") / name
               if not path.is_file() or path.stat().st_size < 100:
                   raise SystemExit(f"Missing or empty SVG: {path}")
