@@ -2,9 +2,6 @@
 
 <img src="./assets/profile-banner.svg" width="100%" alt="Abid Hasan — Software Developer and CSE Student" />
 
-<p>
-  <img src="./assets/typing-intro.svg" width="100%" alt="Animated introduction: software development, web and backend, algorithms, IoT and embedded systems" />
-</p>
 
 
 </div>
@@ -20,6 +17,11 @@ I'm a Computer Science & Engineering student at **Daffodil International Univers
 - 🧠 Strengthening my foundation in Data Structures and Algorithms
 - 🔌 Exploring IoT and embedded systems
 - 🏆 **Best Performer — IoT Lab**
+
+<div align="center">
+  <img src="./assets/neon-code-workflow.gif" width="520" alt="Looping square animation: Code, Deploy, Debug, Repeat" />
+</div>
+
 
 ## Technology Stack
 
@@ -48,11 +50,6 @@ I'm a Computer Science & Engineering student at **Daffodil International Univers
   </tr>
 </table>
 
-<div align="center">
-
-<img src="./assets/neon-code-workflow.gif" width="420" alt="Animated Code, Deploy, Debug, Repeat workflow" />
-
-</div>
 
 ## GitHub Analytics
 
