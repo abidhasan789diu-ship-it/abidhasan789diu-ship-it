@@ -19,7 +19,7 @@ I'm a Computer Science & Engineering student at **Daffodil International Univers
 - 🏆 **Best Performer — IoT Lab**
 
 <div align="center">
-  <img src="./assets/neon-code-workflow.gif" width="520" alt="Looping square animation: Code, Deploy, Debug, Repeat" />
+  <img src="./assets/neon-code-workflow.svg" width="420" alt="Animated square workflow: Code, Deploy, Debug, Repeat" />
 </div>
 
 
