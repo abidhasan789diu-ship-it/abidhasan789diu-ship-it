@@ -1,29 +1,16 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="720" height="64" viewBox="0 0 720 64" role="img" aria-labelledby="title desc">
-<title id="title">Abid Hasan — animated developer introduction</title>
-<desc id="desc">Four developer interests rotate in sequence, changing every one second.</desc>
+<title id="title">Code. Deploy. Develop. Repeat.</title>
+<desc id="desc">A single animated neon typing-style motto.</desc>
 <defs>
-  <linearGradient id="neon" x1="0" y1="0" x2="1" y2="0">
-    <stop offset="0" stop-color="#00F5FF"/>
-    <stop offset=".55" stop-color="#8B5CF6"/>
-    <stop offset="1" stop-color="#FF00FF"/>
+  <linearGradient id="neon" x1="0%" y1="0%" x2="100%" y2="0%">
+    <stop offset="0%" stop-color="#00F5FF">
+      <animate attributeName="stop-color" values="#00F5FF;#8B5CF6;#00F5FF" dur="4s" repeatCount="indefinite"/>
+    </stop>
+    <stop offset="100%" stop-color="#8B5CF6">
+      <animate attributeName="stop-color" values="#8B5CF6;#00F5FF;#8B5CF6" dur="4s" repeatCount="indefinite"/>
+    </stop>
   </linearGradient>
 </defs>
-<rect x="1" y="7" width="718" height="50" rx="12" fill="#161B22" stroke="#8B5CF6" stroke-opacity=".35"/>
-<g font-family="Consolas, 'Courier New', monospace" font-size="19" font-weight="600" text-anchor="middle" fill="url(#neon)">
-  <text x="360" y="39" opacity="1">&gt; Software Development
-    <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;.249;.25;1" dur="8s" begin="0s" repeatCount="indefinite"/>
-  </text>
-  <text x="360" y="39" opacity="0">&gt; Web &amp; Backend Technologies
-    <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;.249;.25;1" dur="8s" begin="4s" repeatCount="indefinite"/>
-  </text>
-  <text x="360" y="39" opacity="0">&gt; Data Structures &amp; Algorithms
-    <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;.249;.25;1" dur="8s" begin="2s" repeatCount="indefinite"/>
-  </text>
-  <text x="360" y="39" opacity="0">&gt; IoT &amp; Embedded Systems
-    <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;.249;.25;1" dur="8s" begin="6s" repeatCount="indefinite"/>
-  </text>
-</g>
-<rect x="602" y="23" width="3" height="20" rx="1.5" fill="#00F5FF">
-  <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
-</rect>
+<rect x="1" y="7" width="718" height="50" rx="12" fill="#161B22" stroke="#00D4FF" stroke-opacity=".4"/>
+<text x="360" y="40" font-family="Consolas, 'Courier New', monospace" font-size="25" font-weight="700" text-anchor="middle" fill="url(#neon)">Code. Deploy. Develop. Repeat.<tspan fill="#00F5FF"> _<animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/></tspan></text>
 </svg>
