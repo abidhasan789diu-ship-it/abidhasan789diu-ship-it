@@ -2,6 +2,10 @@
 
 <img src="./assets/profile-banner.svg" width="100%" alt="Abid Hasan — Software Developer and CSE Student" />
 
+<p align="center">
+  <img src="./assets/typing-intro.svg" width="100%" alt="Animated developer message ticker" />
+</p>
+
 
 
 </div>
