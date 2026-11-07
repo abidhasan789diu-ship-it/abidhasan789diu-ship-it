@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="520" viewBox="0 0 520 520" role="img" aria-labelledby="title desc">
+<title id="title">Code, Deploy, Debug, Repeat — animated workflow</title>
+<desc id="desc">A square neon workflow animation. A glowing cursor continuously travels around four square cards labeled Code, Deploy, Debug and Repeat, with a code symbol in the center.</desc>
+<defs>
+  <linearGradient id="cyan" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#00E5FF"/><stop offset="1" stop-color="#008CFF"/></linearGradient>
+  <linearGradient id="violet" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#D66BFF"/><stop offset="1" stop-color="#7448FF"/></linearGradient>
+  <filter id="glow" x="-80%" y="-80%" width="260%" height="260%"><feGaussianBlur stdDeviation="7" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <filter id="soft" x="-80%" y="-80%" width="260%" height="260%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <path id="route" d="M260 28 H430 Q492 28 492 90 V430 Q492 492 430 492 H90 Q28 492 28 430 V90 Q28 28 90 28 H260" fill="none"/>
+</defs>
+<rect x="8" y="8" width="504" height="504" rx="28" fill="#080D18" stroke="#18334C" stroke-width="3"/>
+<rect x="24" y="24" width="472" height="472" rx="22" fill="none" stroke="#15344F" stroke-width="2" stroke-dasharray="5 11"/>
+<!-- connector route -->
+<path d="M184 132 H336 V388 H184 Z" fill="none" stroke="#17415C" stroke-width="4" stroke-dasharray="7 12" stroke-linecap="round"/>
+<!-- cards -->
+<g font-family="Arial, Helvetica, sans-serif" text-anchor="middle">
+  <g>
+    <rect x="58" y="58" width="150" height="126" rx="18" fill="#0E1B2D" stroke="url(#cyan)" stroke-width="4" filter="url(#soft)"/>
+    <text x="133" y="120" font-size="38" font-weight="700" fill="#00DFFF">&lt;/&gt;</text>
+    <text x="133" y="158" font-size="23" font-weight="700" fill="#F4F8FF">CODE</text>
+  </g>
+  <g>
+    <rect x="312" y="58" width="150" height="126" rx="18" fill="#151329" stroke="url(#violet)" stroke-width="4" filter="url(#soft)"/>
+    <path d="M387 91 V131 M371 108 L387 91 L403 108 M371 131 H403" fill="none" stroke="#C78BFF" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="387" y="158" font-size="22" font-weight="700" fill="#F4F8FF">DEPLOY</text>
+  </g>
+  <g>
+    <rect x="58" y="336" width="150" height="126" rx="18" fill="#0D1C25" stroke="#00E7B2" stroke-width="4" filter="url(#soft)"/>
+    <path d="M133 365 L143 383 H123 Z M133 383 V402 M122 391 H144" fill="none" stroke="#00E7B2" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="133" y="438" font-size="23" font-weight="700" fill="#F4F8FF">DEBUG</text>
+  </g>
+  <g>
+    <rect x="312" y="336" width="150" height="126" rx="18" fill="#0E1B2D" stroke="url(#cyan)" stroke-width="4" filter="url(#soft)"/>
+    <path d="M405 380 A23 23 0 0 0 366 375 M366 375 L366 360 M366 375 L381 375 M369 402 A23 23 0 0 0 408 407 M408 407 L408 422 M408 407 L393 407" fill="none" stroke="#00DFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="387" y="438" font-size="22" font-weight="700" fill="#F4F8FF">REPEAT</text>
+  </g>
+</g>
+<!-- center symbol -->
+<circle cx="260" cy="260" r="66" fill="#11172B" stroke="#526BFF" stroke-width="4" filter="url(#glow)"/>
+<path d="M245 238 L220 260 L245 282 M275 238 L300 260 L275 282 M267 229 L253 291" fill="none" stroke="#E8F7FF" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+<!-- continuously moving cursor -->
+<g filter="url(#glow)">
+  <circle r="13" fill="#00DFFF" opacity=".35">
+    <animateMotion dur="5s" repeatCount="indefinite" rotate="auto"><mpath href="#route"/></animateMotion>
+  </circle>
+  <circle r="6" fill="#FFFFFF" stroke="#00E5FF" stroke-width="3">
+    <animateMotion dur="5s" repeatCount="indefinite" rotate="auto"><mpath href="#route"/></animateMotion>
+  </circle>
+</g>
+</svg>
