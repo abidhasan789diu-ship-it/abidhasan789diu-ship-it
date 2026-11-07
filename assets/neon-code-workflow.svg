@@ -38,12 +38,12 @@
 <!-- center symbol -->
 <circle cx="260" cy="260" r="66" fill="#11172B" stroke="#526BFF" stroke-width="4" filter="url(#glow)"/>
 <path d="M245 238 L220 260 L245 282 M275 238 L300 260 L275 282 M267 229 L253 291" fill="none" stroke="#E8F7FF" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
-<!-- continuously moving arrow cursor -->
+<!-- continuously moving right-facing arrow cursor -->
 <g filter="url(#glow)">
-  <path d="M0 0 L0 31 L9 23 L16 38 L22 35 L15 20 L28 19 Z"
+  <path d="M0 0 L31 14 L18 19 L25 31 L19 34 L12 22 L3 31 Z"
         fill="#FFFFFF" stroke="#00E5FF" stroke-width="2.5"
         stroke-linejoin="round">
-    <animateMotion dur="5s" repeatCount="indefinite" rotate="auto">
+    <animateMotion dur="5s" repeatCount="indefinite">
       <mpath href="#route"/>
     </animateMotion>
   </path>
