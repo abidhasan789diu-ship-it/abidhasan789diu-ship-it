@@ -48,6 +48,12 @@ I'm a Computer Science & Engineering student at **Daffodil International Univers
   </tr>
 </table>
 
+<div align="center">
+
+<img src="./assets/neon-code-workflow.gif" width="420" alt="Animated Code, Deploy, Debug, Repeat workflow" />
+
+</div>
+
 ## GitHub Analytics
 
 <p align="center">
