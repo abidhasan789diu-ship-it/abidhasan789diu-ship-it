@@ -1,3 +1,5 @@
+<p align="center"><img src="./assets/coding-border.svg" width="100%" alt="Animated neon coding border" /></p>
+
 <div align="center">
 
 <img src="./assets/profile-banner.svg" width="100%" alt="Abid Hasan — Software Developer and CSE Student" />
@@ -106,3 +108,5 @@ I'm a Computer Science & Engineering student at **Daffodil International Univers
 *Learning continuously. Building thoughtfully.*
 
 </div>
+
+<p align="center"><img src="./assets/coding-border.svg" width="100%" alt="Animated neon coding border" /></p>
