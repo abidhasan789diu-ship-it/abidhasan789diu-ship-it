@@ -1,4 +1,4 @@
-<p align="center"><img src="./assets/code-stream.svg?v=5" width="100%" alt="Continuous animated code stream" /></p>
+<p align="center"><img src="./assets/abid_live_code_scroll.gif?v=1" width="100%" alt="Continuous animated code stream" /></p>
 
 <div align="center">
 
@@ -109,4 +109,4 @@ I'm a Computer Science & Engineering student at **Daffodil International Univers
 
 </div>
 
-<p align="center"><img src="./assets/code-stream.svg?v=5" width="100%" alt="Continuous animated code stream" /></p>
+<p align="center"><img src="./assets/abid_live_code_scroll.gif?v=1" width="100%" alt="Continuous animated code stream" /></p>
