@@ -1,4 +1,4 @@
-<p align="center"><img src="./assets/coding-border.svg?v=3" width="100%" alt="Animated neon coding border" /></p>
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1200&color=00DFFF&background=0D142200&center=true&vCenter=true&width=1100&height=62&lines=const+app+%3D+initializeApp(config)%3B;function+deployBuild()+%7B+return+build()%3B+%7D;if+(bug)+%7B+debug()%3B+%7D;git+add+.+%26%26+git+commit+-m+%22update%22;while+(learning)+%7B+code()%3B+build()%3B+%7D" width="100%" alt="Animated scrolling code snippets" /></p>
 
 <div align="center">
 
@@ -109,4 +109,4 @@ I'm a Computer Science & Engineering student at **Daffodil International Univers
 
 </div>
 
-<p align="center"><img src="./assets/coding-border.svg?v=3" width="100%" alt="Animated neon coding border" /></p>
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1200&color=00DFFF&background=0D142200&center=true&vCenter=true&width=1100&height=62&lines=const+app+%3D+initializeApp(config)%3B;function+deployBuild()+%7B+return+build()%3B+%7D;if+(bug)+%7B+debug()%3B+%7D;git+add+.+%26%26+git+commit+-m+%22update%22;while+(learning)+%7B+code()%3B+build()%3B+%7D" width="100%" alt="Animated scrolling code snippets" /></p>
