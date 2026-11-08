@@ -1,4 +1,4 @@
-<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1200&color=00DFFF&background=0D142200&center=true&vCenter=true&width=1100&height=62&lines=const+app+%3D+initializeApp(config)%3B;function+deployBuild()+%7B+return+build()%3B+%7D;if+(bug)+%7B+debug()%3B+%7D;git+add+.+%26%26+git+commit+-m+%22update%22;while+(learning)+%7B+code()%3B+build()%3B+%7D" width="100%" alt="Animated scrolling code snippets" /></p>
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&pause=1400&color=00E5FF&background=0D142200&center=true&vCenter=true&width=1100&height=90&lines=const+name+%3D+%22Abid+Hasan%22%3B;const+role+%3D+%22CSE+Student+%40+DIU%22%3B;const+interests+%3D+%5B%22Software%22%2C+%22Web%22%2C+%22Backend%22%5D%3B;const+focus+%3D+%5B%22Data+Structures%22%2C+%22Algorithms%22%2C+%22IoT%22%5D%3B;const+tools+%3D+%5B%22C%22%2C+%22C%2B%2B%22%2C+%22Python%22%2C+%22JavaScript%22%5D%3B;const+achievement+%3D+%22Best+Performer+-+IoT+Lab%22%3B" width="100%" alt="Animated About Me code profile" /></p>
 
 <div align="center">
 
@@ -109,4 +109,4 @@ I'm a Computer Science & Engineering student at **Daffodil International Univers
 
 </div>
 
-<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1200&color=00DFFF&background=0D142200&center=true&vCenter=true&width=1100&height=62&lines=const+app+%3D+initializeApp(config)%3B;function+deployBuild()+%7B+return+build()%3B+%7D;if+(bug)+%7B+debug()%3B+%7D;git+add+.+%26%26+git+commit+-m+%22update%22;while+(learning)+%7B+code()%3B+build()%3B+%7D" width="100%" alt="Animated scrolling code snippets" /></p>
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&pause=1400&color=00E5FF&background=0D142200&center=true&vCenter=true&width=1100&height=90&lines=const+name+%3D+%22Abid+Hasan%22%3B;const+role+%3D+%22CSE+Student+%40+DIU%22%3B;const+interests+%3D+%5B%22Software%22%2C+%22Web%22%2C+%22Backend%22%5D%3B;const+focus+%3D+%5B%22Data+Structures%22%2C+%22Algorithms%22%2C+%22IoT%22%5D%3B;const+tools+%3D+%5B%22C%22%2C+%22C%2B%2B%22%2C+%22Python%22%2C+%22JavaScript%22%5D%3B;const+achievement+%3D+%22Best+Performer+-+IoT+Lab%22%3B" width="100%" alt="Animated About Me code profile" /></p>
