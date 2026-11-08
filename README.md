@@ -1,4 +1,4 @@
-<p align="center"><img src="./assets/coding-border.svg" width="100%" alt="Animated neon coding border" /></p>
+<p align="center"><img src="./assets/coding-border.svg?v=3" width="100%" alt="Animated neon coding border" /></p>
 
 <div align="center">
 
@@ -109,4 +109,4 @@ I'm a Computer Science & Engineering student at **Daffodil International Univers
 
 </div>
 
-<p align="center"><img src="./assets/coding-border.svg" width="100%" alt="Animated neon coding border" /></p>
+<p align="center"><img src="./assets/coding-border.svg?v=3" width="100%" alt="Animated neon coding border" /></p>
