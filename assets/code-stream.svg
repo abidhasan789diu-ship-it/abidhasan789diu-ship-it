@@ -1,15 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" width="1100" height="190" viewBox="0 0 1100 190">
   <defs>
-    <linearGradient id="fadeMask" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0" stop-color="black"/>
-      <stop offset="0.16" stop-color="white"/>
-      <stop offset="0.84" stop-color="white"/>
-      <stop offset="1" stop-color="black"/>
-    </linearGradient>
-    <mask id="softFade">
-      <rect width="1100" height="190" fill="url(#fadeMask)"/>
-    </mask>
     <clipPath id="window"><rect x="0" y="0" width="1100" height="190" rx="12"/></clipPath>
   </defs>
   <rect width="1100" height="190" rx="12" fill="#0b1220" stroke="#164e63" stroke-width="1.5"/>
@@ -18,7 +9,6 @@
     <text x="78" y="21" fill="#64748b" font-family="monospace" font-size="11">abid@dev: ~/projects — live coding</text>
   </g>
   <g clip-path="url(#window)">
-    <g mask="url(#softFade)">
     <g transform="translate(0 35)">
       <g font-family="Fira Code, Consolas, monospace" font-size="14">
         <g id="code-lines">
@@ -34,10 +24,9 @@
           <text x="24" y="270" fill="#64748b">10</text><text x="58" y="270" fill="#c084fc">if</text><text x="78" y="270" fill="#e2e8f0"> (bugFound) { </text><text x="190" y="270" fill="#60a5fa">debug</text><text x="240" y="270" fill="#e2e8f0">(); </text><text x="274" y="270" fill="#60a5fa">improve</text><text x="340" y="270" fill="#e2e8f0">(); }</text>
           <text x="24" y="298" fill="#64748b">11</text><text x="58" y="298" fill="#c084fc">export default</text><text x="174" y="298" fill="#e2e8f0"> developer;</text>
         </g>
-        <use href="#code-lines" y="330"/>
+        <use href="#code-lines" y="308"/>
       </g>
-      <animateTransform attributeName="transform" type="translate" from="0 35" to="0 -330" dur="17s" repeatCount="indefinite"/>
-    </g>
+      <animateTransform attributeName="transform" type="translate" from="0 35" to="0 -308" dur="17s" repeatCount="indefinite"/>
     </g>
   </g>
 </svg>
