@@ -1,6 +1,42 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="46" viewBox="0 0 1200 46" role="img" aria-labelledby="t d">
-<title id="t">Animated coding border</title><desc id="d">Neon code symbols move continuously along a glowing coding rail.</desc>
-<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#00D9FF"/><stop offset=".5" stop-color="#9B5CFF"/><stop offset="1" stop-color="#00D9FF"/></linearGradient><filter id="glow"><feGaussianBlur stdDeviation="2.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
-<path d="M12 23 H1188" stroke="#18334B" stroke-width="2"/><path d="M12 23 H1188" stroke="url(#g)" stroke-width="1.5" stroke-dasharray="16 13" filter="url(#glow)"><animate attributeName="stroke-dashoffset" from="0" to="-116" dur="3s" repeatCount="indefinite"/></path>
-<g font-family="monospace" font-size="17" font-weight="700" fill="#00E5FF" filter="url(#glow)"><text y="18">&lt;/&gt;<animate attributeName="x" values="-90;1200" dur="12s" repeatCount="indefinite"/></text><text y="39" fill="#B77CFF">{}<animate attributeName="x" values="1200;-90" dur="15s" repeatCount="indefinite"/></text><text y="18" fill="#B77CFF">[ ]<animate attributeName="x" values="350;1450" dur="17s" repeatCount="indefinite"/></text><text y="39">&gt;_<animate attributeName="x" values="850;-150" dur="13s" repeatCount="indefinite"/></text></g>
-<circle cx="12" cy="23" r="4" fill="#00E5FF" filter="url(#glow)"/><circle cx="1188" cy="23" r="4" fill="#B77CFF" filter="url(#glow)"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="62" viewBox="0 0 1200 62" role="img" aria-labelledby="title desc">
+<title id="title">Scrolling animated code</title>
+<desc id="desc">Real code snippets continuously scroll across a neon cyan and purple coding strip.</desc>
+<defs>
+ <linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#00DFFF"/><stop offset=".5" stop-color="#A855F7"/><stop offset="1" stop-color="#00DFFF"/></linearGradient>
+ <filter id="glow" x="-10%" y="-40%" width="120%" height="180%"><feGaussianBlur stdDeviation="2" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+ <clipPath id="clip"><rect x="0" y="0" width="1200" height="62"/></clipPath>
+</defs>
+<rect x="1" y="1" width="1198" height="60" rx="10" fill="#0D1422" fill-opacity=".92" stroke="#17415A" stroke-width="1.5"/>
+<path d="M16 31 H1184" stroke="#19364B" stroke-width="1"/>
+<g clip-path="url(#clip)" font-family="Consolas, 'Courier New', monospace" font-size="15" font-weight="600" filter="url(#glow)">
+ <g fill="#48DDFB">
+  <g>
+   <text x="20" y="23">const app = initializeApp(config);</text>
+   <text x="430" y="23" fill="#C18BFF">function deployBuild() { return build(); }</text>
+   <text x="900" y="23" fill="#69E6C1">git push origin main;</text>
+   <animateTransform attributeName="transform" type="translate" from="0 0" to="-1200 0" dur="24s" repeatCount="indefinite"/>
+  </g>
+  <g>
+   <text x="1220" y="23">const app = initializeApp(config);</text>
+   <text x="1630" y="23" fill="#C18BFF">function deployBuild() { return build(); }</text>
+   <text x="2100" y="23" fill="#69E6C1">git push origin main;</text>
+   <animateTransform attributeName="transform" type="translate" from="0 0" to="-1200 0" dur="24s" repeatCount="indefinite"/>
+  </g>
+ </g>
+ <g fill="#C18BFF">
+  <g>
+   <text x="20" y="49">if (bug) { debug(); }</text>
+   <text x="360" y="49" fill="#69E6C1">while (learning) { build(); }</text>
+   <text x="780" y="49" fill="#48DDFB">console.log("Code • Deploy • Repeat");</text>
+   <animateTransform attributeName="transform" type="translate" from="0 0" to="-1200 0" dur="30s" repeatCount="indefinite"/>
+  </g>
+  <g>
+   <text x="1220" y="49">if (bug) { debug(); }</text>
+   <text x="1560" y="49" fill="#69E6C1">while (learning) { build(); }</text>
+   <text x="1980" y="49" fill="#48DDFB">console.log("Code • Deploy • Repeat");</text>
+   <animateTransform attributeName="transform" type="translate" from="0 0" to="-1200 0" dur="30s" repeatCount="indefinite"/>
+  </g>
+ </g>
+</g>
+<path d="M16 59 H1184" stroke="url(#line)" stroke-width="1.5" opacity=".9"/>
+</svg>
