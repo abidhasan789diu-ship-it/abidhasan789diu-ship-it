@@ -1,12 +1,14 @@
 <div align="center">
 
+<img src="./assets/profile-banner.svg" width="100%" alt="Abid Hasan — Software Developer and CSE Student" />
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=2000&color=00E5FF&center=true&vCenter=true&width=1100&height=58&duration=1000&deleteSpeed=25&repeat=true&lines=%E2%9E%9C+Software+Developer+%7C+CSE+Student;%E2%9E%9C+IoT+and+Embedded+Systems;%E2%9E%9C+Building+Practical+Projects;%E2%9E%9C+Code+%E2%80%A2+Deploy+%E2%80%A2+Debug+%E2%80%A2+Repeat;%E2%9E%9C+Learning+%E2%80%A2+Building+%E2%80%A2+Improving" width="100%" alt="Animated developer message ticker" />
 </p>
 
-<img src="./assets/profile-banner.svg" width="100%" alt="Abid Hasan — Software Developer and CSE Student" />
-
 <p align="center"><img src="./assets/abid_live_code_scroll.gif?v=1" width="100%" height="79" alt="Continuous animated code stream" /></p>
+
+
 </div>
 
 ---
